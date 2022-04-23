@@ -1,0 +1,11 @@
+[02-May-2021 13:18:56 America/New_York] PHP Notice:  Undefined index: userfname in /home/healthyb/public_html/wedding-planner/admin/menu.php on line 15
+[02-May-2021 13:18:56 America/New_York] PHP Notice:  Undefined index: userfname in /home/healthyb/public_html/wedding-planner/admin/sidemenu.php on line 8
+[02-May-2021 13:18:58 America/New_York] PHP Notice:  Undefined index: userfname in /home/healthyb/public_html/wedding-planner/admin/menu.php on line 15
+[02-May-2021 13:18:58 America/New_York] PHP Notice:  Undefined index: userfname in /home/healthyb/public_html/wedding-planner/admin/sidemenu.php on line 8
+[02-May-2021 13:18:58 America/New_York] PHP Notice:  Undefined index: userfname in /home/healthyb/public_html/wedding-planner/admin/admin-dashboard-overview.php on line 51
+[04-May-2021 11:53:28 America/New_York] PHP Notice:  Undefined index: userfname in /home/healthyb/public_html/wedding-planner/admin/menu.php on line 15
+[04-May-2021 11:53:28 America/New_York] PHP Notice:  Undefined index: userfname in /home/healthyb/public_html/wedding-planner/admin/sidemenu.php on line 8
+[04-May-2021 11:53:31 America/New_York] PHP Notice:  Undefined index: userfname in /home/healthyb/public_html/wedding-planner/admin/menu.php on line 15
+[04-May-2021 11:53:31 America/New_York] PHP Notice:  Undefined index: userfname in /home/healthyb/public_html/wedding-planner/admin/sidemenu.php on line 8
+[04-May-2021 11:53:36 America/New_York] PHP Notice:  Undefined index: userfname in /home/healthyb/public_html/wedding-planner/admin/menu.php on line 15
+[04-May-2021 11:53:36 America/New_York] PHP Notice:  Undefined index: userfname in /home/healthyb/public_html/wedding-planner/admin/sidemenu.php on line 8

@@ -1,0 +1,20 @@
+[03-May-2021 11:00:25 America/New_York] PHP Warning:  mysqli_num_fields() expects exactly 1 parameter, 2 given in /home/healthyb/public_html/wedding-planner/controller/export_csv.php on line 18
+[03-May-2021 11:31:15 America/New_York] PHP Notice:  Undefined index: guestid in /home/healthyb/public_html/wedding-planner/controller/addnewguesttable.php on line 7
+[03-May-2021 11:31:34 America/New_York] PHP Notice:  Undefined index: guestid in /home/healthyb/public_html/wedding-planner/controller/addnewguesttable.php on line 7
+[03-May-2021 11:32:06 America/New_York] PHP Notice:  Undefined index: filebutton in /home/healthyb/public_html/wedding-planner/controller/newlistupload.php on line 10
+[03-May-2021 15:25:15 America/New_York] PHP Notice:  Undefined index: guestid in /home/healthyb/public_html/wedding-planner/controller/addnewguesttable.php on line 7
+[03-May-2021 15:25:37 America/New_York] PHP Notice:  Undefined index: guestid in /home/healthyb/public_html/wedding-planner/controller/addnewguesttable.php on line 7
+[03-May-2021 15:26:35 America/New_York] PHP Notice:  Undefined index: guestid in /home/healthyb/public_html/wedding-planner/controller/addnewguesttable.php on line 7
+[03-May-2021 15:31:04 America/New_York] PHP Notice:  Undefined index: guestid in /home/healthyb/public_html/wedding-planner/controller/addnewguesttable.php on line 7
+[03-May-2021 15:31:28 America/New_York] PHP Notice:  Undefined index: guestid in /home/healthyb/public_html/wedding-planner/controller/addnewguesttable.php on line 7
+[03-May-2021 16:03:04 America/New_York] PHP Notice:  Undefined index: filebutton in /home/healthyb/public_html/wedding-planner/controller/newlistupload.php on line 10
+[03-May-2021 16:55:00 America/New_York] PHP Notice:  Undefined index: guestid in /home/healthyb/public_html/wedding-planner/controller/addnewguesttable.php on line 7
+[04-May-2021 10:24:50 America/New_York] PHP Notice:  Undefined index: guestid in /home/healthyb/public_html/wedding-planner/controller/addnewguesttable.php on line 7
+[04-May-2021 13:00:53 America/New_York] PHP Notice:  Undefined index: username2 in /home/healthyb/public_html/wedding-planner/controller/venlogin.php on line 9
+[04-May-2021 13:00:53 America/New_York] PHP Notice:  Undefined index: passwordlogin in /home/healthyb/public_html/wedding-planner/controller/venlogin.php on line 10
+[26-Mar-2022 12:41:40 America/New_York] PHP Notice:  Undefined index: guestid in /home/healthyb/public_html/wedding-planner/controller/addnewguesttable.php on line 7
+[26-Mar-2022 14:23:11 America/New_York] PHP Notice:  Undefined index: guestid in /home/healthyb/public_html/wedding-planner/controller/addnewguesttable.php on line 7
+[26-Mar-2022 14:23:18 America/New_York] PHP Notice:  Undefined index: guestid in /home/healthyb/public_html/wedding-planner/controller/addnewguesttable.php on line 7
+[16-Apr-2022 17:42:36 America/New_York] PHP Notice:  Undefined index: guestid in /home/healthyb/public_html/wedding-planner/controller/addnewguesttable.php on line 7
+[17-Apr-2022 02:10:15 America/New_York] PHP Notice:  Undefined index: username2 in /home/healthyb/public_html/wedding-planner/controller/venlogin.php on line 9
+[17-Apr-2022 02:10:15 America/New_York] PHP Notice:  Undefined index: passwordlogin in /home/healthyb/public_html/wedding-planner/controller/venlogin.php on line 10
